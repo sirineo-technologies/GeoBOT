@@ -1,5 +1,7 @@
 # GeoBOT Tucum 🛰️
 
+![GeoBOT Tucum - Vista Geral](assets/geobot1.jpg)
+
 **GeoBOT Tucum** é uma placa de desenvolvimento GNSS desenvolvida e projetada no laboratório **BabaçuLABVicente** pela **SiriNEO Technologies**, para uso nas plataformas **JARMIoTM** e **JARMESP32IoT**.
 
 O GeoBOT Tucum utiliza a série **MAX-M8** de módulos GNSS independentes com recepção concorrente. A série é construída sobre o desempenho excepcional do motor **u-blox M8** no fator de forma **MAX**, comprovado na indústria. Com front-end de RF para recepção concorrente de dois sistemas GNSS, o motor u-blox M8 é capaz de utilizar de forma inteligente a maior quantidade de satélites visíveis de dois sistemas GNSS (**GPS, GLONASS e BeiDou**) para um posicionamento mais confiável. A série MAX-M8 é ideal para aplicações orientadas a desempenho, oferecendo alta sensibilidade e tempos mínimos de aquisição, mantendo baixo consumo de energia do sistema.
@@ -27,6 +29,12 @@ O GeoBOT foi projetado para operar em dois modos de operação, dependendo da pr
 
 2.  **Sem bateria de backup:**
     Se nenhuma bateria de backup estiver conectada, o módulo realiza um **Cold Start** a cada energização.
+
+## 📷 Galeria
+
+![GeoBOT Tucum - Detalhe da Placa](assets/geobot2.jpg)
+
+![GeoBOT Tucum integrado à plataforma JARMIoTM](assets/geobotejarmiotm.jpg)
 
 ## 📦 Aplicações
 
