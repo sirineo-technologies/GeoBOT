@@ -41,8 +41,13 @@ O GeoBOT foi projetado para operar em dois modos de operação, dependendo da pr
 ## 📦 Acoplamento com JARM IoT M
 
 <p align="center">
-  <img src="assets/geobotejarmiotm.jpg" alt="GeoBOT Tucum integrado à plataforma JARMIoTM" width="500">
+  <img src="assets/geobotejarmiotm.jpg" alt="GeoBOT Tucum integrado à plataforma JARMIoTM" width="500">     https://github.com/sirineo-technologies/GeoBOT/blob/main/assets/tela_leitura.png
 </p>
+
+## 📦 Tela do osftware de registros dos satelites
+
+<p align="center">
+  <img src="assets/tela_leitura.png" alt="GeoBOT tela leitura" width="400">     
 
 ## 📦 Aplicações
 
