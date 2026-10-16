@@ -1,6 +1,6 @@
 # GeoBOT Tucum 🛰️
 
-![GeoBOT Tucum - Vista Geral](assets/geobot1.jpg)
+<img src="assets/geobot1.jpg" alt="GeoBOT Tucum - Vista Geral" width="300">
 
 **GeoBOT Tucum** é uma placa de desenvolvimento GNSS desenvolvida e projetada no laboratório **BabaçuLABVicente** pela **SiriNEO Technologies**, para uso nas plataformas **JARMIoTM** e **JARMESP32IoT**.
 
@@ -32,9 +32,8 @@ O GeoBOT foi projetado para operar em dois modos de operação, dependendo da pr
 
 ## 📷 Galeria
 
-![GeoBOT Tucum - Detalhe da Placa](assets/geobot2.jpg)
-
-![GeoBOT Tucum integrado à plataforma JARMIoTM](assets/geobotejarmiotm.jpg)
+<img src="assets/geobot2.jpg" alt="GeoBOT Tucum - Detalhe da Placa" width="300">
+<img src="assets/geobotejarmiotm.jpg" alt="GeoBOT Tucum integrado à plataforma JARMIoTM" width="300">
 
 ## 📦 Aplicações
 
