@@ -47,7 +47,7 @@ O GeoBOT foi projetado para operar em dois modos de operação, dependendo da pr
 ## 📦 Tela do osftware de registros dos satelites
 
 <p align="center">
-  <img src="assets/tela_leitura.png" alt="GeoBOT tela leitura" width="400">     
+  <img src="assets/tela_leitura.png" alt="GeoBOT tela leitura" width="800">     
 
 ## 📦 Aplicações
 
